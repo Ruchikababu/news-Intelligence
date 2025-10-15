@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent News Aggregator",
+  "description": "A news aggregation system using AI to rank articles, index keywords with a trie, and map topic relationships with graphs. Gamified features like daily streaks and reader ranks encourage engagement.",
+  "requestFramePermissions": []
+}
